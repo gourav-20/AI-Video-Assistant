@@ -1,0 +1,43 @@
+# AI Meeting Assistant
+# Python dependencies
+
+# UI
+streamlit
+
+# Audio / YouTube
+yt-dlp
+pydub
+
+# Speech-to-text
+openai-whisper
+
+# Translation
+deep-translator
+
+# LangChain / LCEL
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langchain-groq
+
+# Mistral API
+mistralai
+groq
+
+# RAG / Vector Database
+chromadb
+langchain-chroma
+
+# Hugging Face embeddings
+sentence-transformers
+langchain-huggingface
+
+# PDF / document processing
+pypdf
+
+# Export
+reportlab
+
+# Data / utilities
+python-dotenv
